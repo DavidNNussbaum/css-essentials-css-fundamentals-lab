@@ -3,3 +3,38 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1{
+  margin: auto;
+}
+
+section#"featured-property"{
+margin: auto;
+}
+
+nav {
+  padding: 10px;
+  background-color: grey;
+}
+
+section#"featured-property" figure image title{
+margin: auto;
+font-size: 10px;
+}
+
+p#featured_property {
+width: 800 px;
+margin: auto;
+}
+
+section#"details" {
+  display: block;
+}
+
+section#"details" div {
+  float: left;
+}
+
+
+
+
